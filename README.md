@@ -200,10 +200,6 @@ The current notebook uses Google Colab's file-upload functionality, so the datas
 - Report confidence intervals and repeated validation results.
 - Document the final measured results for both datasets.
 
-## Disclaimer
 
-This project is intended for educational and research purposes only. It is not a medical diagnostic tool and must not be used as a substitute for professional medical evaluation.
-
----
 
 **Author:** Padmapriya R
